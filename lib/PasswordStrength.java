@@ -3,5 +3,7 @@ public enum PasswordStrength {
     INVALID,
     WEAK,
     MEDIUM,
-    STRONG
+    STRONG;
+
+    
 }
